@@ -1,3 +1,50 @@
+<p align="center">
+  <a href="https://cdsorg.vercel.app/">
+    <img alt="CDS" title="CDS" src="https://github.com/CodeDeployingSquad/docs/blob/7fee7e648814aaafebf52852eb99b4e3654e8387/static/img/logo.png" width="200">
+  </a>
+</p> 
+<h1 align="center">< CDS.Documentation /></h1>
+<h4 align="center">Documentation for the largest community of tomorrow's open source developers 📚</h4>
+
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/CodeDeployingSquad?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-9-brightgreen.svg" alt="Repositories">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/graphs/contributors">
+    <img src="https://img.shields.io/badge/Contributors-15-blue.svg" alt="Contributors">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Commits-3200-orange.svg" alt="Commits">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/pulls">
+    <img src="https://img.shields.io/badge/PRs%20Open-25-brightgreen.svg" alt="PRs Open">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/issues">
+    <img src="https://img.shields.io/badge/Issues%20Open-50-red.svg" alt="Issues Open">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/network/members">
+    <img src="https://img.shields.io/badge/Forks-30-lightgrey.svg" alt="Forks">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/stargazers">
+    <img src="https://img.shields.io/badge/Stars-1500-yellow.svg" alt="Stars">
+  </a>
+</div>
+<br>
+<br>
+
+## Table of Contents
+
+- [Installation](#setup)
+- [Local Development](#localdevelopment)
+- [Build](#build)
+- [Deployment](#deployment)
+- [Continuous Integration](#ci)
+
+<br><br>
+
 # < CDS.Documentation />
 
 Official website for documentation by CodeDeployingSquad
