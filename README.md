@@ -6,7 +6,6 @@
 <h1 align="center">< CDS.Documentation /></h1>
 <h4 align="center">Documentation for the largest community of tomorrow's open source developers 📚</h4>
 
-
 <br>
 
 <div align="center">
@@ -44,10 +43,6 @@
 - [Continuous Integration](#ci)
 
 <br><br>
-
-# < CDS.Documentation />
-
-Official website for documentation by CodeDeployingSquad
 
 ### Installation
 
