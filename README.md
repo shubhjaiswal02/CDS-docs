@@ -31,6 +31,8 @@
     <img src="https://img.shields.io/badge/Stars-1500-yellow.svg" alt="Stars">
   </a>
 </div>
+<br>
+<br>
 
 ## Table of Contents
 
@@ -40,7 +42,7 @@
 - [Deployment](#deployment)
 - [Continuous Integration](#ci)
 
-<br><br>
+<br>
 
 ### Installation
 
