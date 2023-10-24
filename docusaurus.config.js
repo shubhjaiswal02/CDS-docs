@@ -12,7 +12,7 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '< CDS.Documentation />',
-  tagline: "The largest community of tomorrow's open source developers",
+  tagline: "Docs the largest community of tomorrow's open source developers",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
