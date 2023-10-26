@@ -32,7 +32,12 @@
   </a>
 </div>
 <br>
+<div align="center">
+  <img alt="CDS" title="CDS" src="https://github.com/CodeDeployingSquad/docs/blob/2e9158698d3b06559f362f3a5ec05b3a9fd55c02/ss.png" width="100%" style="border-radius: 10px;">
+</div>
+
 <br>
+
 
 ## Table of Contents
 
