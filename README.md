@@ -46,6 +46,8 @@
 - [Build](#build)
 - [Deployment](#deployment)
 - [Continuous Integration](#ci)
+- [Deployed on GitHub Pages](#ghpages)
+- [Contributors](#contributors)
 
 <br>
 
@@ -87,6 +89,7 @@ $ GIT_USER=<Your GitHub username> pnpm run deploy
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
+
 ### Continuous Integration
 
 Some common defaults for linting/formatting have been set for you. If you integrate your project with an open source Continuous Integration system (e.g. Travis CI, CircleCI), you may check for issues using the following command.
@@ -94,3 +97,17 @@ Some common defaults for linting/formatting have been set for you. If you integr
 ```
 $ pnpm run ci
 ```
+
+### Deployed on GitHub Pages
+
+This project is deployed on GitHub Pages, a static site hosting service that lets you publish HTML, CSS, and JavaScript files to the web directly from a GitHub repository.
+
+To view the live site, visit:
+
+[https://codedeployingsquad.github.io/docs](https://codedeployingsquad.github.io/docs)
+
+### Contributors
+
+<a href="https://github.com/CodeDeployingSquad/docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CodeDeployingSquad/docs" />
+</a>
